@@ -1,4 +1,4 @@
-{
+49{
   "contractName": "TEAToken",
   "abi": [
     {
@@ -7,8 +7,8 @@
         {
           "indexed": true,
           "internalType": "address",
-          "name": "owner",
-          "type": "address"
+          "name":selo49 "owner",
+          "type":0x243e524c4B5e15f1d60Bd31E0ff88889B2a99575 "address"
         },
         {
           "indexed": true,

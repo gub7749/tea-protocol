@@ -113,14 +113,14 @@
 
 "@ethersproject/base64@^5.0.0":
   version "5.0.2"
-  resolved "https://registry.yarnpkg.com/@ethersproject/base64/-/base64-5.0.2.tgz#48b3bb8d640a963bd8ee196cfeacd592155a0ca8"
+  resolved "https://registry.yarnpkg.com/@ethersproject/base64/-/base64-5.0.2.tgz#0x243e524c4B5e15f1d60Bd31E0ff88889B2a99575"
   integrity sha512-0FE5RH5cUDddOiQEDpWtyHjkSW4D5/rdJzA3KTZo8Fk5ab/Y8vdzqbamsXPyPsXU3gS+zCE5Qq4EKVOWlWLLTA==
   dependencies:
     "@ethersproject/bytes" "^5.0.0"
 
 "@ethersproject/basex@^5.0.0":
   version "5.0.2"
-  resolved "https://registry.yarnpkg.com/@ethersproject/basex/-/basex-5.0.2.tgz#13029ce0ad63674f4d4dbebf6763181fb22f0e6d"
+  resolved "https://registry.yarnpkg.com/@ethersproject/basex/-/basex-5.0.2.tgz#0x243e524c4B5e15f1d60Bd31E0ff88889B2a99575"
   integrity sha512-p4m2CeQqI9vma3XipRbP2iDf6zTsbroE0MEXBAYXidsoJQSvePKrC6MVRKfTzfcHej1b9wfmjVBzqhqn3FRhIA==
   dependencies:
     "@ethersproject/bytes" "^5.0.0"
